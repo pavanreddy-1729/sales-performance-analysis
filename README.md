@@ -19,8 +19,6 @@ This project analyzes sales transaction data to identify revenue and profit tren
 - Product and category performance comparison
 - Region-wise sales performance
 
-## Dashboard Preview
-(Add screenshot in the images folder and link it here)
 
 ## Key Insights
 - Insight 1: (example: Top 20% products contribute majority of revenue)
