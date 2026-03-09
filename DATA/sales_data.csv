@@ -1,0 +1,17 @@
+Date,Product,Region,Quantity,Price,Total_Sales,Sales_Rep
+2026-01-05,Laptop,North,5,1200,6000,John Smith
+2026-01-06,Monitor,South,8,350,2800,Sarah Johnson
+2026-01-07,Keyboard,East,15,80,1200,Mike Davis
+2026-01-08,Mouse,West,20,45,900,Emily Wilson
+2026-01-09,Printer,North,3,500,1500,John Smith
+2026-01-10,Desk,South,2,450,900,Sarah Johnson
+2026-01-11,Chair,East,10,200,2000,Mike Davis
+2026-01-12,Monitor,West,6,350,2100,Emily Wilson
+2026-01-13,Laptop,North,4,1200,4800,John Smith
+2026-01-14,Keyboard,South,12,80,960,Sarah Johnson
+2026-01-15,Mouse,East,25,45,1125,Mike Davis
+2026-01-16,Printer,West,2,500,1000,Emily Wilson
+2026-01-17,Desk,North,3,450,1350,John Smith
+2026-01-18,Chair,South,8,200,1600,Sarah Johnson
+2026-01-19,Monitor,East,7,350,2450,Mike Davis
+2026-01-20,Laptop,West,3,1200,3600,Emily Wilson
